@@ -1,5 +1,5 @@
 # murom-gui
-Приложение для управление роботом МУРОМ (desktop + android version)
+Приложение для управление роботом МУРОМ-ИСП (desktop + android version)
 
 Работает на Qt 5.3
 
