@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/button_default.png</file>
+        <file>img/button_pressed.png</file>
+        <file>img/navigation_next_item.png</file>
+        <file>img/navigation_previous_item.png</file>
+        <file>img/tab_selected.png</file>
+        <file>img/tabs_standard.png</file>
+        <file>img/textinput.png</file>
+        <file>img/toolbar.png</file>
+        <file>img/arrow_down_6649.png</file>
+        <file>img/arrow_left_9619.png</file>
+        <file>img/arrow_right_9327.png</file>
+        <file>img/arrow_up_5741.png</file>
+        <file>img/x_cross_delete_stop-128.png</file>
+        <file>img/background.png</file>
+        <file>img/finger.png</file>
+        <file>img/murom_scheme.png</file>
+        <file>qml/AndroidDelegate.qml</file>
+        <file>qml/Camera.qml</file>
+        <file>qml/Comands.qml</file>
+        <file>qml/Control.qml</file>
+        <file>qml/Control_btn.qml</file>
+        <file>qml/HControl_btn.qml</file>
+        <file>qml/Joystick.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/MainForm.ui.qml</file>
+        <file>qml/Murom_btn.qml</file>
+        <file>qml/Sensors.qml</file>
+        <file>qml/VControl_btn.qml</file>
+        <file>qml/Control_Joystick.qml</file>
+        <file>qml/Joystick2.qml</file>
+        <file>img/858490.jpg</file>
+        <file>qml/Voice.qml</file>
+        <file>qml/MuromSpin.qml</file>
+    </qresource>
+</RCC>
